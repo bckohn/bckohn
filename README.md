@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bckohn
-- 👀 I’m interested in ...
+
 - 🌱 I’m currently learning Python
 
 - 📫 How to reach me: bruno_kohn@hotmail.com
